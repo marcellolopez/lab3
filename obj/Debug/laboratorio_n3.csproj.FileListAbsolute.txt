@@ -1,0 +1,11 @@
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\bin\Debug\laboratorio_n3.exe.config
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\bin\Debug\laboratorio_n3.exe
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\bin\Debug\laboratorio_n3.pdb
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.csproj.AssemblyReference.cache
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.Form1.resources
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.Properties.Resources.resources
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.csproj.GenerateResource.cache
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.csproj.CoreCompileInputs.cache
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.exe
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.pdb
