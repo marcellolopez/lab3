@@ -9,3 +9,7 @@ C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\labora
 C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.csproj.CoreCompileInputs.cache
 C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.exe
 C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.pdb
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\bin\Debug\laboratorio_n3.exe.manifest
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\bin\Debug\laboratorio_n3.application
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.exe.manifest
+C:\Users\PC Marcello\source\repos\laboratorio_n3\laboratorio_n3\obj\Debug\laboratorio_n3.application
